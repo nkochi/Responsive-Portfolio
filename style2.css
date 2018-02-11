@@ -1,0 +1,17 @@
+@media all and (max-width: 980px) {
+    body {
+      background-color: green;
+    }
+  }
+
+  @media all and (max-width: 768px) {
+    body {
+      background-color: blue;
+    }
+  }
+
+  @media all and (max-width: 640px) {
+    body {
+      background-color: red;
+    }
+  }
